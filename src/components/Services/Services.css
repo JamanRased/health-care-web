@@ -1,0 +1,6 @@
+.service-area{
+    transition: 0.5s;
+}
+.service-area:hover{
+    box-shadow: 2px 5px 10px rgb(221, 221, 221);
+}

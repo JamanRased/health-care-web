@@ -1,0 +1,22 @@
+.contact{
+    background-color: rgb(223, 250, 223);
+}
+.input-field {
+    padding: 12px;
+    margin: 5px;
+    border: 1px solid gray;
+    outline: none;
+    border-bottom: 1px solid gray;
+    width: 50%;
+  }
+  .input-button {
+    background-color: rgb(250, 241, 161);
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px 25px;
+    color: rgb(0, 0, 0);
+    width: 50%;
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  
